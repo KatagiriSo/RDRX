@@ -1,0 +1,19 @@
+{
+  "name": "rdrx",
+  "version": "1.0.0",
+  "description": "rxlike framework",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rx"
+  ],
+  "author": "So Katagiri",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.11.1",
+    "node": "^12.12.0"
+  }
+}
